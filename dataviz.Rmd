@@ -1,0 +1,12 @@
+---
+title: "Dataviz"
+author: "Mine Çetinkaya-Rundel and Angela Zoss"
+output: 
+  html_document:
+    fig_caption: yes
+    fig_width: 6    
+  pdf_document:
+    fig_caption: yes
+    fig_width: 6
+---
+
