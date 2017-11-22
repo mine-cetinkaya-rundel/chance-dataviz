@@ -10,3 +10,16 @@ output:
     fig_width: 6
 ---
 
+## Why teach visualization?
+## How to teach visualization
+
+Learning to create effective data visualizations requires a variety of related skills - data analysis, graphic design, visual communication, perhaps even computer programming. Visualization has grown into a field of study of its own right, building increasingly strong empirical evidence of the processes by which individuals process and interpret data visualizations. 
+
+
+### Basic design tips (conceptual introduction)
+- Focus on basic charts and graphs
+- Optional: Tie to a tool students are already using
+- Try to find collaborators/colleagues to present a different view
+
+### Design exercise
+### Importance of feedback
